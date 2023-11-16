@@ -1,4 +1,4 @@
-# Weather-Data-Analysis-Alfido-Tech
+# Weather-Data-Analysis-Alfido-Tech-Internship-Task-1
 
 Overview:-
   The Weather Data Analysis project leverages various data preprocessing techniques, data exploration, and the implementation of a Random Forest Classifier to predict weather descriptions based on provided weather data. The goal of this project is to build a reliable model for weather description classification, enabling applications in weather analysis.
