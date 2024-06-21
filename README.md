@@ -1,4 +1,4 @@
-# Weather-Data-Analysis-Alfido-Tech-Internship-Task-1
+# Weather Data Analysis
 
 **Overview:**
 Developed a machine learning model to classify weather descriptions using a Random Forest Classifier. The project involved comprehensive data preprocessing, exploratory data analysis, and model evaluation to achieve high accuracy in weather description prediction.
