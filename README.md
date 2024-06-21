@@ -1,17 +1,17 @@
 # Weather-Data-Analysis-Alfido-Tech-Internship-Task-1
 
-Overview:-
-  The Weather Data Analysis project leverages various data preprocessing techniques, data exploration, and the implementation of a Random Forest Classifier to predict weather descriptions based on provided weather data. The goal of this project is to build a reliable model for weather description classification, enabling applications in weather analysis.
+**Overview:**
+Developed a machine learning model to classify weather descriptions using a Random Forest Classifier. The project involved comprehensive data preprocessing, exploratory data analysis, and model evaluation to achieve high accuracy in weather description prediction.
 
-Project Structure:-
-Weather Data Analysis that analyzes weather data using Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn. The project description includes the following steps:
-1. Importing and preprocessing the weather data, including renaming columns, converting data types, and checking for null values and duplicates.
-2. Exploratory data analysis, including generating summary statistics, creating visualizations such as line plots, histograms, and heatmaps, and calculating correlations between numerical columns.
-3. Standardizing weather descriptions by replacing various descriptions with more consistent labels such as 'Sunny', 'Cloudy', 'Rainy', 'Snowy', 'Haze', and 'Thunderstorms'.
-4. Handling outliers by creating boxplots and removing outliers from specific columns using the interquartile range method.
-5. Oversampling the data using SMOTE to balance the target variable.
-6. Building a random forest classifier to predict the weather type based on other variables such as temperature, humidity, wind speed, and pressure.
-7. Evaluating the model's accuracy using metrics such as confusion matrix and classification report.
+**Key Steps:**
+- **Data Preprocessing:** Renamed columns, handled null values and duplicates, and standardized weather descriptions.
+- **Exploratory Data Analysis:** Generated summary statistics, visualizations (line plots, histograms, heatmaps), and correlation analysis.
+- **Outlier Handling:** Created boxplots, and removed outliers using the interquartile range method.
+- **Data Balancing:** Applied SMOTE (Synthetic Minority Over-sampling Technique) to balance the target variable.
+- **Model Building:** Developed a Random Forest Classifier to predict weather types based on variables like temperature, humidity, wind speed, and pressure.
+- **Model Evaluation:** Assessed accuracy (~91%) using confusion matrix and classification report.
 
-Project Conclusion:-
-  Based on the evaluation of the Random Forest model, the project concludes that the model is effective in classifying weather descriptions. It achieves a high accuracy score of approximately 91%. The confusion matrix and classification report provide additional insights into the model's performance for different weather classes. This project serves as a comprehensive example of data preprocessing, exploratory data analysis, and machine learning classification techniques in the context of weather data. 
+**Skills Used:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Data Preprocessing, Exploratory Data Analysis, Machine Learning, Model Evaluation
+
+**Conclusion:**
+The Random Forest model effectively classifies weather descriptions, demonstrating the application of data preprocessing, EDA, and machine learning in weather data analysis.
